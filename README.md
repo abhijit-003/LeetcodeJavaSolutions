@@ -67,6 +67,12 @@ Levels:
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Custom%20Sort%20String.java">Answer</a></td>
   </tr>
 
+ <tr>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/binary-subarrays-with-sum/"> Binary Subarrays With Sum</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Subarrays%20With%20Sum.java">Answer</a></td>
+  </tr>
+  
   <tr>
     <td>🔴</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
