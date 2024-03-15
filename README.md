@@ -72,6 +72,12 @@ Levels:
     <td><a href="https://leetcode.com/problems/binary-subarrays-with-sum/"> Binary Subarrays With Sum</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Subarrays%20With%20Sum.java">Answer</a></td>
   </tr>
+
+   <tr>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/product-of-array-except-self/description/">Product of Array Except Self</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Product%20of%20Array%20Except%20Self.java">Answer</a></td>
+  </tr>
   
   <tr>
     <td>🔴</td>
