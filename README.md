@@ -14,7 +14,7 @@ Levels:
 
 <table>
   <tr>
-    <th>Difficulty</th>
+    <th>Question No.</th>
     <th>Question</th>
     <th>Solution</th>
   </tr>  
@@ -54,7 +54,20 @@ Levels:
     <td><a href="https://leetcode.com/problems/intersection-of-two-arrays/description/"> Intersection of Two Arrays</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/tree/main/Java">Answer</a></td>
   </tr>
-  
+   <tr>
+    <td>2540</td>
+    <td><a href="https://leetcode.com/problems/minimum-common-value/description/">Minimum Common Value</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/minimum%20common%20value.java">Answer</a></td>
+  </tr>
+</table>
+
+## Medium
+<table>
+  <tr>
+    <th>Question No.</th>
+    <th>Question</th>
+    <th>Solution</th>
+  </tr>  
   <tr>
     <td>🟡 </td>
     <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/">Remove Zero Sum Consecutive Nodes from Linked List</a></td>
@@ -84,6 +97,16 @@ Levels:
     <td><a href="https://leetcode.com/problems/find-peak-element/description/">Find Peak Element</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Find%20Peak%20Element.java">Answer</a></td>
   </tr>
+</table>
+
+
+## Hard
+<table>
+  <tr>
+    <th>Question No.</th>
+    <th>Question</th>
+    <th>Solution</th>
+  </tr>  
   <tr>
     <td>🔴</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
