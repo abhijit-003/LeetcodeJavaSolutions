@@ -19,6 +19,26 @@ Levels:
     <th>Question</th>
     <th>Solution</th>
   </tr>  
+
+  <tr>
+    <td>1</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Two%20Sum.java">Answer</a></td>
+  </tr>
+<tr>
+    <td>26</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Remove Duplicates from Sorted Array</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Remove%20Duplicates%20from%20Sorted%20Array.java">Answer</a></td>
+  </tr>
+  
+<tr>
+    <td>35</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/search-insert-position/description/">Search Insert Position</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/search%20inset%20position.java">Answer</a></td>
+  </tr>
   
   <tr>
     <td>125</td>
@@ -26,6 +46,26 @@ Levels:
     <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/tree/main/Java">Answer</a></td>
   </tr>
+<tr>
+    <td>136</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/single-number/description/">Single Number</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Single%20Number.java">Answer</a></td>
+  </tr>
+<tr>
+    <td>225</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/implement-stack-using-queues/description/">Implement Stack using Queues</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Implement%20Stack%20using%20Queues.java">Answer</a></td>
+  </tr>
+  
+  <tr>
+    <td>268</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/missing-number/description/">Missing Number</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Missing%20Number.java">Answer</a></td>
+  </tr>
+  
 <tr>
     <td>278</td>
      <td>🟢 </td>
@@ -54,10 +94,24 @@ Levels:
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Guess%20Number%20Higher%20or%20Lower.java">Answer</a></td>
   </tr>
 
+ <tr>
+    <td>501</td>
+    <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/description/">Guess Number Higher or Lower</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Find%20Mode%20in%20Binary%20Search%20Tree.java">Answer</a></td>
+  </tr>
+
+<tr>
+    <td>1380</td>
+    <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/">Lucky Numbers in a Matrix</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Lucky%20Numbers%20in%20a%20Matrix.java">Answer</a></td>
+  </tr>
+
    <tr>
     <td>2485</td>
     <td>🟢 </td>
-    <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/">Find The Pivot Integer</a></td>
+    <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/">Find Mode in Binary Search Tree</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Nim_game.java">Answer</a></td>
   </tr>
   
@@ -66,6 +120,13 @@ Levels:
      <td>🟢 </td>
     <td><a href="https://leetcode.com/problems/minimum-common-value/description/">Minimum Common Value</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/minimum%20common%20value.java">Answer</a></td>
+  </tr>
+
+  <tr>
+    <td>2605</td>
+     <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/">Form Smallest Number From Two Digit Arrays</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java">Answer</a></td>
   </tr>
 </table>
 
@@ -110,6 +171,33 @@ Levels:
     <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/">Remove Zero Sum Consecutive Nodes from Linked List</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java">Answer</a></td>
   </tr>
+
+<tr>
+    <td>1759</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/description/">Count Number of Homogenous Substrings</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Count%20Number%20of%20Homogenous%20Substrings.java">Answer</a></td>
+  </tr>
+  
+  <tr>
+    <td>1845</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/seat-reservation-manager/description/">Seat Reservation Manager</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Seat%20Reservation%20Manager.java">Answer</a></td>
+  </tr>
+  <tr>
+    <td>1921</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/">Eliminate Maximum Number of Monsters</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Eliminate%20Maximum%20Number%20of%20Monsters.java">Answer</a></td>
+  </tr>
+
+  <tr>
+    <td>2849</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/">Determine if a Cell Is Reachable at a Given Time</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.java">Answer</a></td>
+  </tr>
 </table>
 
 
@@ -121,6 +209,13 @@ Levels:
     <th>Question</th>
     <th>Solution</th>
   </tr>  
+
+  <tr>
+    <td>4</td>
+    <td>🔴</td>
+    <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/description/">Median of Two Sorted Arrays</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Median%20of%20Two%20Sorted%20Arrays.java">Answer</a></td>
+  </tr>
   <tr>
     <td>41</td>
     <td>🔴</td>
