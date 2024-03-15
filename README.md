@@ -78,7 +78,12 @@ Levels:
     <td><a href="https://leetcode.com/problems/product-of-array-except-self/description/">Product of Array Except Self</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Product%20of%20Array%20Except%20Self.java">Answer</a></td>
   </tr>
-  
+
+  <tr>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/find-peak-element/description/">Find Peak Element</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Find%20Peak%20Element.java">Answer</a></td>
+  </tr>
   <tr>
     <td>🔴</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
