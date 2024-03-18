@@ -39,7 +39,12 @@ Levels:
     <td><a href="https://leetcode.com/problems/search-insert-position/description/">Search Insert Position</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/search%20inset%20position.java">Answer</a></td>
   </tr>
-  
+  <tr>
+    <td>94</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/description/">Binary Tree Inorder Traversal</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Tree%20Inorder%20Traversal.java">Answer</a></td>
+  </tr>
   <tr>
     <td>125</td>
    <td>🟢 </td>
@@ -51,6 +56,18 @@ Levels:
    <td>🟢 </td>
     <td><a href="https://leetcode.com/problems/single-number/description/">Single Number</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Single%20Number.java">Answer</a></td>
+  </tr>
+  <tr>
+    <td>144</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/description/">Binary Tree Preorder Traversal</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Tree%20Preorder%20Traversal.java">Answer</a></td>
+  </tr>
+   <tr>
+    <td>145</td>
+   <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/binary-tree-postorder-traversal/description/">Binary Tree Postorder Traversal</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Tree%20Postorder%20Traversal.java">Answer</a></td>
   </tr>
 <tr>
     <td>225</td>
@@ -150,6 +167,12 @@ Levels:
      <td>🟡 </td>
     <td><a href="https://leetcode.com/problems/product-of-array-except-self/description/">Product of Array Except Self</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Product%20of%20Array%20Except%20Self.java">Answer</a></td>
+  </tr>
+  <tr>
+    <td>452</td>
+     <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=daily-question&envId=2024-03-18">Minimum Number of Arrows to Burst Balloons</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.java">Answer</a></td>
   </tr>
   <tr>
     <td>791</td>
