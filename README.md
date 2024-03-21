@@ -174,6 +174,12 @@ Levels:
     <td><a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=daily-question&envId=2024-03-18">Minimum Number of Arrows to Burst Balloons</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.java">Answer</a></td>
   </tr>
+   <tr>
+    <td>678</td>
+     <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/valid-parenthesis-string/description/">Valid Parenthesis String</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Valid%20Parenthesis%20String.java">Answer</a></td>
+  </tr>
   <tr>
     <td>791</td>
     <td>🟡 </td>
