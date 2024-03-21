@@ -155,7 +155,12 @@ Levels:
     <th>Question</th>
     <th>Solution</th>
   </tr>    
-  
+   <tr>
+    <td>102</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/description/">Binary Tree Level Order Traversal</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Tree%20Level%20Order%20Traversal.java">Answer</a></td>
+  </tr>
  <tr>
     <td>162</td>
     <td>🟡 </td>
