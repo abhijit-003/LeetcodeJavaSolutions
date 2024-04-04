@@ -125,6 +125,13 @@ Levels:
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Lucky%20Numbers%20in%20a%20Matrix.java">Answer</a></td>
   </tr>
 
+  <tr>
+    <td>1614</td>
+    <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/">Maximum Nesting Depth of the Parentheses</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Maximum%20Nesting%20Depth%20of%20the%20Parentheses">Answer</a></td>
+  </tr>
+
    <tr>
     <td>2485</td>
     <td>🟢 </td>
