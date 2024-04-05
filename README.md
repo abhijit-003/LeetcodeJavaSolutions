@@ -124,7 +124,12 @@ Levels:
     <td><a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/">Lucky Numbers in a Matrix</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Lucky%20Numbers%20in%20a%20Matrix.java">Answer</a></td>
   </tr>
-
+<tr>
+    <td>1544</td>
+    <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/make-the-string-great/description/">Make The String Great</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Make%20The%20String%20Great.java">Answer</a></td>
+  </tr>
   <tr>
     <td>1614</td>
     <td>🟢 </td>
