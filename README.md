@@ -137,6 +137,13 @@ Levels:
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Maximum%20Nesting%20Depth%20of%20the%20Parentheses">Answer</a></td>
   </tr>
 
+ <tr>
+    <td>2000</td>
+    <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/reverse-prefix-of-word/description/">Reverse Prefix of Word</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Reverse%20Prefix%20of%20Word.java">Answer</a></td>
+  </tr>
+  
    <tr>
     <td>2485</td>
     <td>🟢 </td>
