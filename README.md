@@ -143,6 +143,13 @@ Levels:
     <td><a href="https://leetcode.com/problems/reverse-prefix-of-word/description/">Reverse Prefix of Word</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Reverse%20Prefix%20of%20Word.java">Answer</a></td>
   </tr>
+
+   <tr>
+    <td>2441</td>
+    <td>🟢 </td>
+    <td><a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/">Largest Positive Integer That Exists With Its Negative</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.java">Answer</a></td>
+  </tr>
   
    <tr>
     <td>2485</td>
