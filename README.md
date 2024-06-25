@@ -224,7 +224,13 @@ Levels:
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Subarrays%20With%20Sum.java">Answer</a></td>
   </tr>
   
-
+<tr>
+    <td>1038</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/?envType=daily-question&envId=2024-06-25">Binary Search Tree to Greater Sum Tree</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.java">Answer</a></td>
+  </tr>
+  
   <tr>
     <td>1171</td>
     <td>🟡 </td>
