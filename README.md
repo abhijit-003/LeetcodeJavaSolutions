@@ -239,6 +239,13 @@ Levels:
   </tr>
 
 <tr>
+    <td>1382</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2024-06-26">Balance a Binary Search Tree</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Balance%20a%20Binary%20Search%20Tree.java">Answer</a></td>
+  </tr>
+
+<tr>
     <td>1759</td>
     <td>🟡 </td>
     <td><a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/description/">Count Number of Homogenous Substrings</a></td>
