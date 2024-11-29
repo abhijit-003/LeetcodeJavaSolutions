@@ -171,6 +171,14 @@ Levels:
     <td><a href="https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/">Form Smallest Number From Two Digit Arrays</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java">Answer</a></td>
   </tr>
+
+  <tr>
+    <td>3136</td>
+     <td >🟢 </td>
+    <td><a href="https://leetcode.com/problems/valid-word/">Valid Word</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Valid%20Word.java">Answer</a></td>
+  </tr>
+
 </table>
 
 ## Medium
