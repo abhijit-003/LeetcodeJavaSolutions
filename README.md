@@ -272,13 +272,21 @@ Levels:
     <td><a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/">Eliminate Maximum Number of Monsters</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Eliminate%20Maximum%20Number%20of%20Monsters.java">Answer</a></td>
   </tr>
-
+ <tr>
+    <td>2109</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/adding-spaces-to-a-string/description/">Adding Spaces to a String</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Adding%20Spaces%20to%20a%20String.java">Answer</a></td>
+  </tr>
+  
   <tr>
     <td>2849</td>
     <td>🟡 </td>
     <td><a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/">Determine if a Cell Is Reachable at a Given Time</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.java">Answer</a></td>
   </tr>
+  
+ 
 </table>
 
 
