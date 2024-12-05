@@ -278,7 +278,14 @@ Levels:
     <td><a href="https://leetcode.com/problems/adding-spaces-to-a-string/description/">Adding Spaces to a String</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Adding%20Spaces%20to%20a%20String.java">Answer</a></td>
   </tr>
-  
+
+   <tr>
+    <td>2337</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/?envType=daily-question&envId=2024-12-05">Adding Spaces to a String</a></td>
+    <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/36e96e484500c5fd75e9807c28388988dfe4535d/Java/Move%20Pieces%20to%20Obtain%20a%20String.java">Answer</a></td>
+  </tr
+    
   <tr>
     <td>2849</td>
     <td>🟡 </td>
