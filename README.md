@@ -284,7 +284,13 @@ Levels:
     <td>🟡 </td>
     <td><a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/?envType=daily-question&envId=2024-12-05">Adding Spaces to a String</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/36e96e484500c5fd75e9807c28388988dfe4535d/Java/Move%20Pieces%20to%20Obtain%20a%20String.java">Answer</a></td>
-  </tr
+   </tr>
+  <tr>
+    <td>2554</td>
+    <td>🟡 </td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/?envType=daily-question&envId=2024-12-06">Maximum Number of Integers to Choose From a Range I</a></td>
+    <td><a href="https://github.com/abhijit-003/Leetcode-Java-Solutions/blob/main/Java/Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.java">Answer</a></td>
+  </tr>
     
   <tr>
     <td>2849</td>
