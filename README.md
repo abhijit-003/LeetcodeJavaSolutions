@@ -136,8 +136,7 @@ Levels:
     <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/">Maximum Nesting Depth of the Parentheses</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Maximum%20Nesting%20Depth%20of%20the%20Parentheses">Answer</a></td>
   </tr>
-
- <tr>
+ 
     <td>2000</td>
     <td>🟢 </td>
     <td><a href="https://leetcode.com/problems/reverse-prefix-of-word/description/">Reverse Prefix of Word</a></td>
@@ -259,7 +258,13 @@ Levels:
     <td><a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/description/">Count Number of Homogenous Substrings</a></td>
     <td><a href="https://github.com/abhijit-003/LeetcodeJavaSolutions/blob/main/Java/Count%20Number%20of%20Homogenous%20Substrings.java">Answer</a></td>
   </tr>
-  
+   <tr>
+    <td>1760</td>
+    <td>🟡</td>
+    <td><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/?envType=daily-question&envId=2024-12-07">Minimum Limit of Balls in a Bag</a></td>
+    <td><a href="https://github.com/abhijit-003/Leetcode-Java-Solutions/blob/main/Java/Minimum%20Limit%20of%20Balls%20in%20a%20Bag.java">Answer</a></td>
+  </tr>
+ <tr>
   <tr>
     <td>1845</td>
     <td>🟡 </td>
